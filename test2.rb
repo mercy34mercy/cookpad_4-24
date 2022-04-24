@@ -1,0 +1,1 @@
+puts "\e[31m\e[41mfoo\e[m\e[m" 
